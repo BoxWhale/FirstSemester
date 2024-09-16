@@ -1,0 +1,14 @@
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\CR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\CR.AssemblyInfoInputs.cache
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\CR.AssemblyInfo.cs
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\CR.csproj.CoreCompileInputs.cache
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\bin\Debug\net8.0\CR.exe
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\bin\Debug\net8.0\CR.deps.json
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\bin\Debug\net8.0\CR.runtimeconfig.json
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\bin\Debug\net8.0\CR.dll
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\bin\Debug\net8.0\CR.pdb
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\CR.dll
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\refint\CR.dll
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\CR.pdb
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\CR.genruntimeconfig.cache
+C:\Users\tueap\Documents\University\1st Trimester\TestBuilds\cr\obj\Debug\net8.0\ref\CR.dll
